@@ -1,14 +1,15 @@
-# Greetings, I'm Mirza
+# Greetings, I'm Mirza 👋
 
-I'm a Computer Science student who enjoys exploring different areas of technology and learning how things work.
+I'm a Computer Science student who enjoys exploring different areas of technology, understanding how things work, and connecting ideas across disciplines.
 
 Currently exploring Machine Learning, Data Science, and Software Development.
 
 ## About Me
 
-- Diploma in Computer Science graduate
-- I enjoy exploring different areas of Computer Science, connecting knowledge from different perspectives, and becoming a well-rounded developer.
-- Open to connecting with developers and programmers from different backgrounds, exchanging ideas, and collaborating on projects.
+- 🎓 Diploma in Computer Science graduate
+- 🧩 Aspiring to become a jack of all trades in Computer Science.
+- 💡 I enjoy connecting knowledge from different perspectives and exploring how different areas of technology work together.
+- 🤝 Always interested in connecting with fellow programmers, exchanging ideas, and collaborating on projects.
 
 ## Tech Stack
 
@@ -23,6 +24,9 @@ Currently exploring Machine Learning, Data Science, and Software Development.
 - Jupyter Notebook
 - MySQL
 - XAMPP
+- Pandas
+- NumPy
+- Scikit-learn
 
 ## Currently Learning
 
@@ -34,8 +38,8 @@ Currently exploring Machine Learning, Data Science, and Software Development.
 ## Connect With Me
 
 - GitHub: [@kemijaan](https://github.com/kemijaan)
-- Instagram: [@mirzaffandi]
-- Discord: [kemijaan]
+- Instagram: [@mirzaffandi](YOUR_INSTAGRAM_URL)
+- Discord: `kemijaan`
 
 ---
 
