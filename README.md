@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.jpg" width="100%" />
-</p>
-
 ## Hi there !👋
 
 I'm Mirza, a computer science graduate based in Malaysia.
