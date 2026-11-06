@@ -2,49 +2,11 @@
   <img src="./banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">Greetings, I'm Mirza 👋</h1>
+#Hi there !
 
-I'm a Computer Science student who enjoys exploring different areas of technology, understanding how things work, and connecting ideas across disciplines.
+I'm Mirza, a computer science graduate based in Malaysia.
 
-Currently exploring Machine Learning, Data Science, and Software Development.
+I love exploring different areas of technology, aspiring to be jack of all trades in Computer Science.
 
-## About Me
+Outside of coding, you'll find me swimming, hitting the gym, or drawing. I'm also interested in exploring other technical and creative skills, such as graphic design, video editing, and digital content creation. I enjoy learning new things, experimenting with different tools, and discovering skills beyond my field of study.
 
-- 🎓 Diploma in Computer Science graduate
-- 🧩 Aspiring to become a jack of all trades in Computer Science.
-- 💡 I enjoy connecting knowledge from different perspectives and exploring how different areas of technology work together.
-- 🤝 Always interested in connecting with fellow programmers, exchanging ideas, and collaborating on projects.
-
-## Tech Stack
-
-**Languages**
-- Python
-- PHP
-- SQL
-
-**Tools & Technologies**
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- MySQL
-- XAMPP
-- Pandas
-- NumPy
-- Scikit-learn
-
-## Currently Learning
-
-- Machine Learning
-- Data Analysis
-- Model Evaluation
-- Python for Data Science
-
-## Connect With Me
-
-- GitHub: [@kemijaan](https://github.com/kemijaan)
-- Instagram: [@mirzaffandi](YOUR_INSTAGRAM_URL)
-- Discord: `kemijaan`
-
----
-
-*Still learning, still building, and always looking for the next thing to figure out.*
