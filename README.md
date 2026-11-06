@@ -1,4 +1,8 @@
-# Greetings, I'm Mirza 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
+
+<h1 align="center">Greetings, I'm Mirza 👋</h1>
 
 I'm a Computer Science student who enjoys exploring different areas of technology, understanding how things work, and connecting ideas across disciplines.
 
